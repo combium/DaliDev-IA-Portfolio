@@ -1,5 +1,5 @@
 /* =========================================================
-   DaliDev-IA — Portfolio interactions
+   Combium — Portfolio interactions
    Minimal, dependency-free, defensive.
    Language: French by default, English optional (FR / EN switch).
    ========================================================= */
@@ -32,9 +32,9 @@
       menuClose:"Fermer le menu"
     },
     en: {
-      title:    "DaliDev-IA — Software, AI & Automation",
-      desc:     "DaliDev-IA — Software & AI Builder, Automation Architect, Entrepreneur and Educator. Building AI-powered products, software and automation systems.",
-      ogTitle:  "DaliDev-IA — Software, AI & Automation",
+      title:    "Combium — AI Orchestration Platform · Mohamed Ali Chamsa",
+      desc:     "Combium — AI orchestration platform published by BATYN. Mohamed Ali Chamsa, Software & AI Builder, Automation Architect, Entrepreneur and Educator.",
+      ogTitle:  "Combium — AI Orchestration Platform · Mohamed Ali Chamsa",
       ogDesc:   "Entrepreneur, Software & AI Builder and Automation Architect. Turning ambitious ideas into working systems.",
       locale:   "en_US",
       menuOpen: "Open menu",
