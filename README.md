@@ -2,7 +2,7 @@
 
 **[🇫🇷 Français](#francais) · [🇬🇧 English](#english)**
 
-Portfolio professionnel mono-page de **Mohamed Ali Chamsa** — Entrepreneur, concepteur logiciel &amp; IA, architecte en automatisation et formateur.
+Portfolio professionnel mono-page de **DaliDev-IA** — Entrepreneur, concepteur logiciel &amp; IA, architecte en automatisation et formateur.
 
 Site statique. Aucun framework, aucune étape de build, aucune dépendance externe, aucun traceur. On ouvre `index.html` directement dans un navigateur et ça fonctionne.
 
@@ -31,7 +31,7 @@ Pas de React / Vue / Next / Tailwind / Bootstrap. Pas de gestionnaire de paquets
   /assets
     portrait-cutout.webp      Portrait détouré, fond transparent (servi en premier)
     portrait-cutout.png       Portrait détouré, repli PNG transparent
-    mohamed-ali-chamsa.jpg    Portrait original — uniquement pour l'aperçu social / OG
+    portrait-original.jpg     Portrait original — uniquement pour l'aperçu social / OG
     logo-dalidev.webp         Logo DaliDev-IA, transparent (servi en premier)
     logo-dalidev.png          Logo DaliDev-IA, repli PNG transparent
     favicon.png               Logo sur pastille sombre (icône d'onglet)
@@ -82,7 +82,7 @@ Pour modifier un texte, changer le français visible **et** son `data-en` sur le
 ### Notes de contenu (ne pas s'en écarter)
 
 - Les produits sont présentés **en tant que produits**. Leur source et leur logique propriétaire restent **privées**. Rien ne laisse entendre qu'ils sont open source.
-- `ft_irc` est indiqué **en cours**, pas terminé. `Inception` et `Transcendence` sont **à venir**.
+- `ft_irc` et `Inception` sont **validés**. `Transcendence` est **à venir**.
 - Combium AI est le produit ; **n8n** est actuellement l'une des technologies utilisées pour le construire — ce n'est pas « un workflow n8n ».
 - Aucune adresse e-mail n'est publiée pour l'instant — le CTA de contact pointe vers GitHub, avec « Adresse e-mail professionnelle bientôt disponible ».
 
@@ -94,7 +94,7 @@ Pour modifier un texte, changer le français visible **et** son `data-en` sur le
 
 ## 🇬🇧 English
 
-Single-page professional portfolio for **Mohamed Ali Chamsa** — Entrepreneur, Software &amp; AI Builder, Automation Architect and Educator.
+Single-page professional portfolio for **DaliDev-IA** — Entrepreneur, Software &amp; AI Builder, Automation Architect and Educator.
 
 Static site. No framework, no build step, no external dependencies, no trackers. Open `index.html` directly in any browser and it works.
 
@@ -117,7 +117,7 @@ No React / Vue / Next / Tailwind / Bootstrap. No package manager. No CDN calls.
   /assets
     portrait-cutout.webp      Hero portrait — cut out, transparent bg (served first)
     portrait-cutout.png       Hero portrait fallback (transparent PNG)
-    mohamed-ali-chamsa.jpg    Original portrait — used only for the social / OG preview
+    portrait-original.jpg     Original portrait — used only for the social / OG preview
     logo-dalidev.webp         DaliDev-IA logo, transparent (served first)
     logo-dalidev.png          DaliDev-IA logo fallback (transparent PNG)
     favicon.png               Logo on a dark tile (browser tab icon)
@@ -168,7 +168,7 @@ To edit a string, change the visible French **and** its `data-en` on the same el
 ### Content notes (do not drift from these facts)
 
 - Products are shown **as products**. Their source and proprietary logic are **private**. Nothing implies open source.
-- `ft_irc` is marked **in progress**, not finished. `Inception` and `Transcendence` are **next**.
+- `ft_irc` and `Inception` are **validated**. `Transcendence` is **next**.
 - Combium AI is the product; **n8n** is currently one of the technologies used to build it — it is not "an n8n workflow".
 - No email is published yet — the contact CTA points to GitHub, with "Professional email coming soon."
 
@@ -176,4 +176,4 @@ To edit a string, change the visible French **and** its `data-en` on the same el
 
 ---
 
-© Mohamed Ali Chamsa · Développé de A à Z. / Built from scratch.
+© DaliDev-IA · Développé de A à Z. / Built from scratch.

@@ -32,9 +32,9 @@
       menuClose:"Fermer le menu"
     },
     en: {
-      title:    "Combium — AI Orchestration Platform · Mohamed Ali Chamsa",
-      desc:     "Combium — AI orchestration platform published by BATYN. Mohamed Ali Chamsa, Software & AI Builder, Automation Architect, Entrepreneur and Educator.",
-      ogTitle:  "Combium — AI Orchestration Platform · Mohamed Ali Chamsa",
+      title:    "Combium — AI Orchestration Platform · DaliDev-IA",
+      desc:     "Combium — AI orchestration platform published by BATYN. DaliDev-IA, Software & AI Builder, Automation Architect, Entrepreneur and Educator.",
+      ogTitle:  "Combium — AI Orchestration Platform · DaliDev-IA",
       ogDesc:   "Entrepreneur, Software & AI Builder and Automation Architect. Turning ambitious ideas into working systems.",
       locale:   "en_US",
       menuOpen: "Open menu",
